@@ -8,10 +8,10 @@
 		
 		"startIntroPart1": "'The insurgency will always prevail.' - Trevor W. William",
 		"startIntroPart2": "This is based on my original creation, so this is only just for fun.",
-		
-"declaringWar": "I've had enough of this! Prepare to feel the wrath of The Scorpions Insurgency!",
+
+		"declaringWar": "I've had enough of this! Prepare to feel the wrath of The Scorpions Insurgency!",
 		"attacked": "You fool, do you really think you can defeat us? Just so you know, we will raze you and your nation to the ground!",
-		"defeated": "You may have won this war. But soon, the Scorpions Insurgency will rise again, and your nation will burn to ashes",
+		"defeated": "You may have won this war. But soon, the Scorpions Insurgency will rise again, and your nation will burn to ashes.",
 		"introduction": "I am Trevor William, I lead the fearsome Scorpions Insurgency. Now I would have destroy you, but I will spare you for now.",
 		
 		"neutralHello": "What?",
@@ -23,15 +23,16 @@
 		"hateNo": ["Don't make me laugh!","Are you kidding me?!","I beg your pardon!?"],
 		"hateYes": ["Fine, I'll take it.","Sure, I guess...","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Fine... I suppose you deserve a second chance.",
+		"tradeRequest": "I am not always this generous, so accept it now.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [220,0,0],
+		"innerColor": [125,0,0],
+		"uniqueName": "Wrath of The Thousand Stingers",
+		"uniques": [
+			"[+30]% Strength <vs [City-States]>",
+			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [50]% chance>",
+			"Resting point for Influence with City-States is increased by [-30]",
+		"cities": ["Fort Scorpiones"]
 	}
 ]
