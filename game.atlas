@@ -25,3 +25,31 @@ UnitIcons/Striker Force
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Slasher
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/S.I General
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/S.I Fighter
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/The Scorpion
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
