@@ -10,16 +10,5 @@
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Library",
 		"requiredTech": "Philosophy"
-	},
-	{
-		"name": "Scorpions Insurgency Base",
-		"replaces": "Military Base",
-		"uniqueTo": "The Scorpions Insurgency",
-		"cityStrength": 15,
-		"cityHealth": 30,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Arsenal",
-		"requiredTech": "Telegraph",
-		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
