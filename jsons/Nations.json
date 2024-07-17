@@ -10,13 +10,13 @@
 		"startIntroPart2": "This is based on my original creation, so this is only just for fun.",
 
 		"declaringWar": "I've had enough of this! Prepare to feel the wrath of The Scorpions Insurgency!",
-		"attacked": "You fool, do you really think you can defeat us? Just so you know, we will raze you and your nation to the ground!",
+		"attacked": "You fool, do you really think you can defeat us? Fine then, we will raze you and your nation to the ground!",
 		"defeated": "You may have won this war. But soon, the Scorpions Insurgency will rise again, and your nation will burn to ashes.",
 		"introduction": "I am Trevor William, I lead the fearsome Scorpions Insurgency. Now I would have destroy you, but I will spare you for now.",
 		
 		"neutralHello": "What?",
 		"neutralLetsHearIt": ["Go on, I don't have all day.","I'm listening.","What do you want?"],
-		"neutralNo": ["Don't make me laugh.","No!","Don't make a fool out of yourself."],
+		"neutralNo": ["Don't.","No.","Don't make a fool out of yourself."],
 		"neutralYes": ["Of course.","Sure.","I agree with that."],
 		"hateHello": "What do you want!?",
 		"hateLetsHearIt": ["Speak!","What are you offering?","Go on."],
@@ -24,11 +24,11 @@
 		"hateYes": ["Fine, I'll take it.","Sure, I guess...","Very well..."],
 		
 		"afterPeace": "Fine... I suppose you deserve a second chance.",
-		"tradeRequest": "I am not always this generous, so accept it now.",
+		"tradeRequest": "I am not always this generous, so accept it before I change my mind.",
 
 		"outerColor": [220,0,0],
 		"innerColor": [125,0,0],
-		"uniqueName": "Wrath of The Thousand Stingers",
+		"uniqueName": "Wrath of The Insurgency",
 		"uniques": [
 			"[+30]% Strength <vs [City-States]>",
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [50]% chance>",
