@@ -37,6 +37,7 @@
 		"requiredTech": "Electronics",
 		"promotions": ["March","Blitz"],
 		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
 	},
 	{
 		"name": "The Scorpion",
@@ -50,7 +51,6 @@
 		"requiredResource": "Uranium",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "gdrAttack"
-		"attackSound": "bombing"
 	},
 	{
 		"name": "S.I General",
@@ -61,7 +61,7 @@
 			"Comment [Can attack enemy units]",
 			"[+25]% Strength <when attacking>",
            		"Empire enters a [10]-turn Golden Age <by consuming this unit>",
-            		"[+20]% Strength bonus for [Military] units within [3] tiles",
+            		"[+20]% Strength bonus for [Military] units within [2] tiles",
             		"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],

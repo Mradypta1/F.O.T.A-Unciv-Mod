@@ -3,7 +3,7 @@
 		"name": "The Scorpions Insurgency",
 		"leaderName": "Trevor Wright William",
 		"adjective": ["Insurgent"],
-		"startBias": ["Grassland"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "'The insurgency will always prevail.' - Trevor W. William",
