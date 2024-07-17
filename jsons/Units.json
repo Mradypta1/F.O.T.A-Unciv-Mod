@@ -1,17 +1,71 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "S.I Fighter",
+		"unitType": "Sword",
+		"uniqueTo": "The Scorpions Insurgency",
+		"replaces": "Warrior",
 		"movement": 2,
+		"strength": 10,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Shock I","Drill I"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Slasher",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "The Scorpions Insurgency",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Striker Force",
+		"unitType": "Gunpowder",
+		"replaces": "Mechanized Infantry",
+		"uniqueTo": "The Scorpions Insurgency",
+		"movement": 3,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
+		"cost": 375,
+		"requiredTech": "Electronics",
+		"promotions": ["March","Blitz"],
+		"uniques": ["Never appears as a Barbarian unit"],
+	},
+	{
+		"name": "The Scorpion",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "The Scorpions Insurgency",
+		"movement": 5,
+		"strength": 250,
+		"cost": 600,
+		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+		"attackSound": "bombing"
+	},
+	{
+		"name": "S.I General",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Scorpions Insurgency",
+		"replaces": "Great General",
+		"uniques": [
+			"Comment [Can attack enemy units]",
+			"[+25]% Strength <when attacking>",
+           		"Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            		"[+20]% Strength bonus for [Military] units within [3] tiles",
+            		"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5,
+		"strength": 30,
+		"attackSound": "shot"
 ]
