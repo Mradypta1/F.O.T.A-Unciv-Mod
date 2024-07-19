@@ -7,8 +7,8 @@ repeat: none
 BuildingIcons/The Archives
   rotate: false
   xy: 220, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Scorpions Insurgency
@@ -21,35 +21,35 @@ NationIcons/The Scorpions Insurgency
 UnitIcons/Striker Force
   rotate: false
   xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Slasher
   rotate: false
   xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/S.I General
   rotate: false
   xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/S.I Fighter
   rotate: false
   xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/The Scorpion
   rotate: false
   xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
