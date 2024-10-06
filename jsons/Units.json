@@ -46,26 +46,30 @@
 		"uniqueTo": "The Scorpions Insurgency",
 		"movement": 8,
 		"strength": 300,
-		"cost": 600,
+		"cost": 1000,
 		"requiredTech": "Nuclear Fusion",
 		"requiredResource": "Uranium",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": [
+			"Can move after attacking", 
+			"No defensive terrain bonus", 
+			"Never appears as a Barbarian unit", 
+			"[+600]% Strength <vs cities> <when attacking>"],
 		"attackSound": "gdrAttack"
 	},
 	{
 		"name": "S.I General",
-		"unitType": "Gunpowder",
+		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "The Scorpions Insurgency",
+		"range": 1.
 		"replaces": "Great General",
+		"movement": 5,
+		"strength": 30,
+		"rangedStrength": 25,
 		"uniques": [
-			"Comment [Can attack enemy units]",
-			"[+25]% Strength <when attacking>",
            		"Empire enters a [10]-turn Golden Age <by consuming this unit>",
             		"[+20]% Strength bonus for [Military] units within [2] tiles",
             		"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 5,
-		"strength": 30,
+        		"Great Person - [War]", "Unbuildable"],
 		"attackSound": "shot"
 ]
