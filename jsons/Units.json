@@ -61,11 +61,11 @@
 		"unitType": "Civilian",
 		"uniqueTo": "The Scorpions Insurgency",
 		"replaces": "Great General",
-		"movement": 5,
 		"uniques": [
            		"Empire enters a [10]-turn Golden Age <by consuming this unit>",
             		"[+20]% Strength bonus for [Military] units within [2] tiles",
             		"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat",
         		"Great Person - [War]", "Unbuildable"],
+		"movement": 3,
 ]
