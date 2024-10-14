@@ -9,18 +9,18 @@
 		"startIntroPart1": "'The insurgency will always prevail.' - Trevor W. William",
 		"startIntroPart2": "This is based on my original creation, so this is only just for fun.",
 
-		"declaringWar": "You know what... I should've ended you when I had the chance. Prepare yourself for war!",
+		"declaringWar": "Our goal is to conquer the world and destroy those who get in our way. And you are one of them. So prepare yourself, prepare yourself for the destruction of you and your nation!",
 		"attacked": "You fool, do you really think you can defeat us? Fine then, we will raze you and your nation to the ground!",
-		"defeated": "You may have claimed your victory today... But soon, the Scorpions Insurgency will rise again, and you will witness your nation burn to ashes.",
-		"introduction": "I am Trevor William, I lead the fearsome Scorpions Insurgency. Now I would have destroy you, but I will spare you, for now...",
+		"defeated": "You may have won this war. But soon, the Scorpions Insurgency will rise again, and you will witness your nation burn to ashes.",
+		"introduction": "I am Trevor William, I lead the fearsome Scorpions Insurgency. Now... I would have destroy you by now, but I will spare you, for now...",
 		
 		"neutralHello": "What?",
 		"neutralLetsHearIt": ["Go on, I don't have all day.","I'm listening.","What do you want?"],
 		"neutralNo": ["Don't.","No.","Don't make a fool out of yourself."],
-		"neutralYes": ["Of course.","Sure.","Deal."],
+		"neutralYes": ["Of course.","Sure.","I'm fine with that."],
 		"hateHello": "What do you want!?",
 		"hateLetsHearIt": ["Speak!","What are you offering?","Go on."],
-		"hateNo": ["Don't make me laugh!","Are you kidding me?!","Oh please..."],
+		"hateNo": ["Don't make me laugh!","Are you kidding me?!","Never!"],
 		"hateYes": ["Fine, I'll take it.","Sure, I guess...","Very well..."],
 		
 		"afterPeace": "Fine... I suppose you deserve a second chance.",
@@ -32,6 +32,8 @@
 		"uniques": [
 			"[+30]% Strength <vs [City-States]>",
 			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [50]% chance>",
-		"cities": ["Fort Scorpiones"]
+			"Resting point for Influence with City-States is increased by [-30]",
+			"No movement cost to pillage"],
+			"cities": ["Fort Scorpiones"]
 	}
 ]
