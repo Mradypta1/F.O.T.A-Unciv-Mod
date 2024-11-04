@@ -26,8 +26,8 @@
 		"afterPeace": "Fine... I suppose you deserve a second chance.",
 		"tradeRequest": "I am not always this generous, so accept it before I change my mind.",
 
-		"outerColor": [220,0,0],
-		"innerColor": [125,0,0],
+		"outerColor": [227,51,51],
+		"innerColor": [100,0,0],
 		"uniqueName": "Wrath of The Insurgency",
 		"uniques": [
 			"[+30]% Strength <vs [City-States]>",
