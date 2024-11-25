@@ -4,11 +4,11 @@
 		"replaces": "National College",
 		"uniqueTo": "The Scorpions Insurgency",
 		"cost": 330,
-		"culture": 14,
-		"science": 20,
-		"maintenance": 96,
+		"science": 5,
+		"culture": 2,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Library",
+		"percentStatBonus": {"science": 70},
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
 	}
 ]
