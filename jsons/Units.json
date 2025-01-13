@@ -21,6 +21,7 @@
 		"strength": 21,
 		"cost": 120,
 		"requiredTech": "Steel",
+		"uniques": ["Withdraws before melee combat <with [70]% chance>"]
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
