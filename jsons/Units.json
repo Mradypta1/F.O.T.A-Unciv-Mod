@@ -18,10 +18,10 @@
 		"replaces": "Longswordsman",
 		"uniqueTo": "The Scorpions Insurgency",
 		"movement": 2,
-		"strength": 21,
+		"strength": 24,
 		"cost": 120,
 		"requiredTech": "Steel",
-		"uniques": ["Withdraws before melee combat <with [70]% chance>"]
+		"uniques": ["Withdraws before melee combat <with [60]% chance>"]
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
